@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dog", "Dog\Dog.csproj", "{C93CC17D-541D-4823-8E42-5C0D8EC8722E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{F8DDAC5E-8B47-4C2C-9B6A-3B13B22E013D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C93CC17D-541D-4823-8E42-5C0D8EC8722E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93CC17D-541D-4823-8E42-5C0D8EC8722E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93CC17D-541D-4823-8E42-5C0D8EC8722E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93CC17D-541D-4823-8E42-5C0D8EC8722E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8DDAC5E-8B47-4C2C-9B6A-3B13B22E013D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DDAC5E-8B47-4C2C-9B6A-3B13B22E013D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DDAC5E-8B47-4C2C-9B6A-3B13B22E013D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DDAC5E-8B47-4C2C-9B6A-3B13B22E013D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D85F430D-71A0-4BD1-AD8A-07F0867DDEC1}
+	EndGlobalSection
+EndGlobal
